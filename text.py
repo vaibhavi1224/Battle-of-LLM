@@ -1,0 +1,3 @@
+SAMPLE_ARTICLE = """
+OpenAI recently introduced GPT-4o, a new model offering better reasoning, voice capabilities and response times...
+"""
